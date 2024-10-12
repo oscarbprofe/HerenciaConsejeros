@@ -18,7 +18,6 @@ public class SuperHerencia {
      */
     public static void main(String[] args) {
 
-        //Consejero presi = new Consejero();
         Consejero presi = new Consejero("Presidente",
                 2025,
                 "vespucio", 
