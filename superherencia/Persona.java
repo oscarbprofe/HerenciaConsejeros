@@ -17,7 +17,7 @@ public class Persona {
     private LocalDateTime fechaNac;
 
     public Persona() {
-        System.out.println("Soy Persona");
+        System.out.println("Soy Persona del Duoc");
     }
 
     public Persona(String nombre, String rut, LocalDateTime fechaNac) {
